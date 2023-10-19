@@ -7,7 +7,7 @@
 
 - 📫 Você pode me contatar via email **gabriel.souza.98@outlook.com ou https://www.linkedin.com/in/gabrielpinto98**
 
-- 📄 Sobre minhas experiências [Minha trajetória profissional começou no quartel, onde adquiri valiosas habilidades operacionais. Ao longo do tempo, trabalhei em diversos setores, incluindo supermercados, vendas no comércio eletrônico, relações públicas, realização de palestras e vendas de soluções SaaS. Atualmente, estou em transição para a área de dados, buscando aplicar meu conhecimento adquirido para enriquecer as áreas em que já atuei.](Minha trajetória profissional começou no quartel, onde adquiri valiosas habilidades operacionais. Ao longo do tempo, trabalhei em diversos setores, incluindo supermercados, vendas no comércio eletrônico, relações públicas, realização de palestras e vendas de soluções SaaS. Atualmente, estou em transição para a área de dados, buscando aplicar meu conhecimento adquirido para enriquecer as áreas em que já atuei.)
+- 📄 Sobre minhas experiências **Minha trajetória profissional começou no quartel, onde adquiri valiosas habilidades operacionais. Ao longo do tempo, trabalhei em diversos setores, incluindo supermercados, vendas no comércio eletrônico, relações públicas, realização de palestras e vendas de soluções SaaS. Atualmente, estou em transição para a área de dados, buscando aplicar meu conhecimento adquirido para enriquecer as áreas em que já atuei.**
 
 - ⚡ Curiosidade **me interessei por analise de dados ao ler o livro Marketing 5.0 de Philip Kotler**
 
