@@ -1,9 +1,9 @@
 <h1 align="center">Olá 👋, Me chamo Gabriel</h1>
 <h3 align="center">Sou um profissional com experiência em comercial e relações públicas, apaixonado por análise de dados e business intelligence. Atualmente, estou estudando Data Analysis e BI para aprimorar minhas habilidades e contribuir para o mundo dos negócios de forma mais eficaz.</h3>
 
-- 🌱 Atualmente estou aprendendo **PySpark, Pandas, DAX e DataViz**
+- 🌱 Atualmente estou aprendendo **PySpark, Pandas, Figma, Big Query, AWS**
 
-- 🖥️ Podemos conversar sobre **Power BI, SQL, Python, Photoshop, CorelDraw**
+- 🖥️ Podemos conversar sobre **DataViz como Power BI, SQL, Python, DAX, Photoshop, CorelDraw**
 
 - 📫 Você pode me contatar via email **gabriel.souza.98@outlook.com ou https://www.linkedin.com/in/gabrielpinto98**
 
